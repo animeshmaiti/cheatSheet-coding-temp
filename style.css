@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(39, 39, 39);
+    color: white;
+    height: 60px;
+ }
+.content{
+    font-family: 'Potta One', cursive;
+}
+ .container{
+    /* background-color: red; */
+    width: 50vw;
+    padding: 32px 0;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+}
+ .copy-to-clipboard-button{
+   cursor: pointer;
+}
+ .logo img{
+    width: 30px;
+}
